@@ -1,0 +1,17 @@
+.idea/
+**/.idea/
+
+**/target/
+
+**/node_modules/
+**/dist/
+
+**/.env
+**/.env.*
+
+.vscode/
+
+**/*.log
+
+.DS_Store
+Thumbs.db
